@@ -55,6 +55,6 @@ with open('../Model/randomforest_model.pkl', 'wb') as f:
 
 #### Installation
 ```bash
-git clone https://github.com/yourusername/energy-consumption-analysis.git
+git clone https://github.com/nyametay/energy-consumption-analysis.git
 cd energy-consumption-analysis
 ```
